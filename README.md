@@ -8,9 +8,6 @@ Aplikasi Penghitung Umur adalah sebuah aplikasi berbasis Java yang membantu peng
 - **Tanggal Ulang Tahun Berikutnya**: Menampilkan tanggal ulang tahun berikutnya beserta hari dalam Bahasa Indonesia.
 - **Peristiwa Penting**: Menampilkan peristiwa penting yang terjadi pada tanggal ulang tahun berikutnya berdasarkan data yang diambil secara daring.
 
-# Pembuat Aplikasi
- Muhammad Akmal - 2210010437 - Latihan 2
-
 # Fitur
 
 Aplikasi ini menawarkan beberapa fitur utama:
